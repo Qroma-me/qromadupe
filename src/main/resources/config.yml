@@ -1,0 +1,2 @@
+# Chance of duplicating an item when renamed in an anvil (0.0 = 0%, 1.0 = 100%)
+dupe-chance: 0.5

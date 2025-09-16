@@ -1,0 +1,5 @@
+name: qromadupe
+version: 1.0
+main: com.kaiowns.qromadupe.qromadupe
+author: kaiowns
+description: Anvil dupe triggered by renaming the item.
